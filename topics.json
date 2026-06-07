@@ -1,554 +1,1374 @@
 [
-    {
-        "TOPIC_ID": "0wMCoLbhAR",
-        "TOPIC_NAME": "সাহিত্যে খেলা"
-    },
-    {
-        "TOPIC_ID": "547-ntuP-y",
-        "TOPIC_NAME": "গন্তব্য কাবুল"
-    },
-    {
-        "TOPIC_ID": "634efKKb4h",
-        "TOPIC_NAME": "অর্ধাঙ্গী"
-    },
-    {
-        "TOPIC_ID": "7BzkpS8OQ3",
-        "TOPIC_NAME": "যৌবনের গান"
-    },
-    {
-        "TOPIC_ID": "mzUO5t045G",
-        "TOPIC_NAME": "কপিলদাস মুর্মুর শেষ কাজ "
-    },
-    {
-        "TOPIC_ID": "t65wd66LkQ",
-        "TOPIC_NAME": "কারবালার-প্রান্তর "
-    },
-    {
-        "TOPIC_ID": "B4Jc2Ysid9",
-        "TOPIC_NAME": "বিড়াল"
-    },
-    {
-        "TOPIC_ID": "Tfj2qpeHPW",
-        "TOPIC_NAME": "বাঙ্গালার  নব্য লেখকদের প্রতি নিবেদন"
-    },
-    {
-        "TOPIC_ID": "lOrMkG1IcY",
-        "TOPIC_NAME": "অপরিচিতা"
-    },
-    {
-        "TOPIC_ID": "KrDlZqRRLu",
-        "TOPIC_NAME": "বিলাসী"
-    },
-    {
-        "TOPIC_ID": "K0I0TIfjas",
-        "TOPIC_NAME": "গৃহ"
-    },
-    {
-        "TOPIC_ID": "-A1jYGVE5S",
-        "TOPIC_NAME": "আহবান"
-    },
-    {
-        "TOPIC_ID": "SfHwmLXgPd",
-        "TOPIC_NAME": "আমার পথ"
-    },
-    {
-        "TOPIC_ID": "DusFz89rLl",
-        "TOPIC_NAME": "মানব কল্যাণ "
-    },
-    {
-        "TOPIC_ID": "YjIW5k0Ebk",
-        "TOPIC_NAME": "জীবন ও বৃক্ষ "
-    },
-    {
-        "TOPIC_ID": "TfjR1-F-v0",
-        "TOPIC_NAME": "মাসি-পিসি"
-    },
-    {
-        "TOPIC_ID": "dXLbDrqHpF",
-        "TOPIC_NAME": "বায়ান্নর দিনগুলো "
-    },
-    {
-        "TOPIC_ID": "ODKyKm4zJi",
-        "TOPIC_NAME": "জাদুঘরে কেন যাব"
-    },
-    {
-        "TOPIC_ID": "lnhXKUakCZ",
-        "TOPIC_NAME": "রেইনকোট"
-    },
-    {
-        "TOPIC_ID": "t7CEaO-H5K",
-        "TOPIC_NAME": "মহাজাগতিক কিউরেটর "
-    },
-    {
-        "TOPIC_ID": "dVLTfVg1g1",
-        "TOPIC_NAME": "নেকলেস "
-    },
-    {
-        "TOPIC_ID": "66hGcOq0w-",
-        "TOPIC_NAME": "চাষার দুক্ষু"
-    },
-    {
-        "TOPIC_ID": "2WyI2g-ZqO",
-        "TOPIC_NAME": "প্রত্যাবর্তনের লজ্জা"
-    },
-    {
-        "TOPIC_ID": "sQbaPaZQux",
-        "TOPIC_NAME": "ঋতু বর্ণন"
-    },
-    {
-        "TOPIC_ID": "usnm_uZckG",
-        "TOPIC_NAME": "সুখ "
-    },
-    {
-        "TOPIC_ID": "FV8AkiDzcP",
-        "TOPIC_NAME": "বিভীষণের প্রতি মেঘনাদ"
-    },
-    {
-        "TOPIC_ID": "R0ZOxgJx7H",
-        "TOPIC_NAME": "সোনার তরী "
-    },
-    {
-        "TOPIC_ID": "Ls9IO9628e",
-        "TOPIC_NAME": "ঐকতান "
-    },
-    {
-        "TOPIC_ID": "bHI6Wju9hW",
-        "TOPIC_NAME": "বিদ্রোহী "
-    },
-    {
-        "TOPIC_ID": "1lOeelG3V0",
-        "TOPIC_NAME": "সাম্যবাদী"
-    },
-    {
-        "TOPIC_ID": "5poo5bz1oa",
-        "TOPIC_NAME": "প্রতিদান"
-    },
-    {
-        "TOPIC_ID": "RWQGuAxjV5",
-        "TOPIC_NAME": "সুচেতনা"
-    },
-    {
-        "TOPIC_ID": "9f48JBeP-8",
-        "TOPIC_NAME": "তাহারেই পড়ে মনে"
-    },
-    {
-        "TOPIC_ID": "ILy_7kblCr",
-        "TOPIC_NAME": "সেই অস্ত্র "
-    },
-    {
-        "TOPIC_ID": "h-Ut6c7uQq",
-        "TOPIC_NAME": "পদ্মা"
-    },
-    {
-        "TOPIC_ID": "7U6tmJyI6l",
-        "TOPIC_NAME": "আঠারো বছর বয়স"
-    },
-    {
-        "TOPIC_ID": "U-KWW2xqyQ",
-        "TOPIC_NAME": "ফেব্রুয়ারি ১৯৬৯"
-    },
-    {
-        "TOPIC_ID": "Rueq3C83ZZ",
-        "TOPIC_NAME": "আমি কিংবদন্তির কথা বলছি"
-    },
-    {
-        "TOPIC_ID": "VjZsm8UUgb",
-        "TOPIC_NAME": "নূরলদীনের কথা মনে  পড়ে যায় "
-    },
-    {
-        "TOPIC_ID": "SGu9zIqpt7",
-        "TOPIC_NAME": "ছবি"
-    },
-    {
-        "TOPIC_ID": "UI4xvCCdCp",
-        "TOPIC_NAME": "এই পৃথিবীতে এক স্থান আছে"
-    },
-    {
-        "TOPIC_ID": "QU3RJE9CSC",
-        "TOPIC_NAME": "রক্তে আমার অনাদি অস্থি"
-    },
-    {
-        "TOPIC_ID": "eoAWrMw7a2",
-        "TOPIC_NAME": "লোক-লোকান্তর "
-    },
-    {
-        "TOPIC_ID": "YGAn054LO5",
-        "TOPIC_NAME": "লালসালু"
-    },
-    {
-        "TOPIC_ID": "R2EPQLM0iO",
-        "TOPIC_NAME": "সিরাজউদ্দৌলা"
-    },
-    {
-        "TOPIC_ID": "EEGlY3GWLW",
-        "TOPIC_NAME": "বাংলা ভাষা ও সাহিত্য "
-    },
-    {
-        "TOPIC_ID": "NIecvJUgeI",
-        "TOPIC_NAME": "বাংলা উচ্চারণের নিয়ম"
-    },
-    {
-        "TOPIC_ID": "QUgz2O801Q",
-        "TOPIC_NAME": "উদ্দেশ্য ও বিধেয়"
-    },
-    {
-        "TOPIC_ID": "R2dRwYxUrr",
-        "TOPIC_NAME": "বাক্য রূপান্তর"
-    },
-    {
-        "TOPIC_ID": "TpL7XrdV_h",
-        "TOPIC_NAME": "সরল, জটিল ও যৌগিক বাক্য"
-    },
-    {
-        "TOPIC_ID": "JBietoEqgL",
-        "TOPIC_NAME": "বাক্য প্রকরণ"
-    },
-    {
-        "TOPIC_ID": "1IF0RW4R5y",
-        "TOPIC_NAME": "কারক ও বিভক্তি"
-    },
-    {
-        "TOPIC_ID": "T6IebptuCX",
-        "TOPIC_NAME": "ছন্দ,  অক্ষর ও মাত্রাবিন্যাস"
-    },
-    {
-        "TOPIC_ID": "gap-139",
-        "TOPIC_NAME": "যতিচিহ্ন ও যতিচিহ্নের ব্যবহার"
-    },
-    {
-        "TOPIC_ID": "iq0PmJ_Pd4",
-        "TOPIC_NAME": "উক্তি "
-    },
-    {
-        "TOPIC_ID": "9iyMtTZvQ2",
-        "TOPIC_NAME": "বাচ্য"
-    },
-    {
-        "TOPIC_ID": "C9Q3U36ZVV",
-        "TOPIC_NAME": "বাংলা ভাষার প্রয়োগ -অপপ্রয়োগ (বাক্য শুদ্ধীকরণ)"
-    },
-    {
-        "TOPIC_ID": "-t9RWK-Gaf",
-        "TOPIC_NAME": "ক্রিয়ার কাল"
-    },
-    {
-        "TOPIC_ID": "V_QUUSXK-i",
-        "TOPIC_NAME": "শব্দজোড়"
-    },
-    {
-        "TOPIC_ID": "yNunD_0Hdr",
-        "TOPIC_NAME": "বাগর্থ"
-    },
-    {
-        "TOPIC_ID": "fnvnPQMgcf",
-        "TOPIC_NAME": "বাগধারা/ প্রবাদ প্রবচন "
-    },
-    {
-        "TOPIC_ID": "qCdRc-umDS",
-        "TOPIC_NAME": "সমার্থক/ প্রতিশব্দ"
-    },
-    {
-        "TOPIC_ID": "Sh1PHug__C",
-        "TOPIC_NAME": "বিপরীত শব্দ "
-    },
-    {
-        "TOPIC_ID": "w2GpuQbCHn",
-        "TOPIC_NAME": "এককথায় প্রকাশ / বাক্য সংকোচন"
-    },
-    {
-        "TOPIC_ID": "z_MVizR6Rt",
-        "TOPIC_NAME": "পারিভাষিক শব্দ "
-    },
-    {
-        "TOPIC_ID": "NdBZm_X4B4",
-        "TOPIC_NAME": "অনুবাদ"
-    },
-    {
-        "TOPIC_ID": "5XyX3e5Jm_",
-        "TOPIC_NAME": "বাংলা ব্যাকরণের ইতিহাস"
-    },
-    {
-        "TOPIC_ID": "eLspF98wDE",
-        "TOPIC_NAME": "বাংলা ভাষার উৎপত্তি ও বিকাশ "
-    },
-    {
-        "TOPIC_ID": "gap-97",
-        "TOPIC_NAME": " ভাষা ও বাংলা ভাষা রীতি"
-    },
-    {
-        "TOPIC_ID": "gap-98",
-        "TOPIC_NAME": " বাংলা ব্যাকরণের আলোচ্য বিষয়"
-    },
-    {
-        "TOPIC_ID": "gap-100",
-        "TOPIC_NAME": "উচ্চারণের নিয়ম"
-    },
-    {
-        "TOPIC_ID": "cCpTk6_abz",
-        "TOPIC_NAME": "ধ্বনি পরিবর্তন"
-    },
-    {
-        "TOPIC_ID": "pmSdKYPY78",
-        "TOPIC_NAME": "ণত্ব ও ষত্ব বিধান "
-    },
-    {
-        "TOPIC_ID": "d72y9bJly2",
-        "TOPIC_NAME": "সন্ধি বিচ্ছেদ "
-    },
-    {
-        "TOPIC_ID": "kWvospuEhP",
-        "TOPIC_NAME": "ধ্বনি ও বর্ণ"
-    },
-    {
-        "TOPIC_ID": "C76oMEDNpb",
-        "TOPIC_NAME": "পুরুষ ও স্ত্রী বাচক শব্দ "
-    },
-    {
-        "TOPIC_ID": "eHBYMgF9sV",
-        "TOPIC_NAME": "বাংলা বানানের নিয়ম ২"
-    },
-    {
-        "TOPIC_ID": "m3HX-cD_8j",
-        "TOPIC_NAME": "বানান শুদ্ধিকরন"
-    },
-    {
-        "TOPIC_ID": "8-tyN1Hosy",
-        "TOPIC_NAME": "বাংলা ভাষার শব্দভান্ডার ও শব্দের শ্রেণিবিভাগ "
-    },
-    {
-        "TOPIC_ID": "J_QM7LPL4W",
-        "TOPIC_NAME": "সংখ্যাবাচক শব্দ"
-    },
-    {
-        "TOPIC_ID": "aoFhaZfcpw",
-        "TOPIC_NAME": "দ্বিরুক্ত শব্দ"
-    },
-    {
-        "TOPIC_ID": "j2k8Uh4iZl",
-        "TOPIC_NAME": "বচন"
-    },
-    {
-        "TOPIC_ID": "64IrpKLkNw",
-        "TOPIC_NAME": "পদাশ্রিত নির্দেশক"
-    },
-    {
-        "TOPIC_ID": "EFAAMiSWkb",
-        "TOPIC_NAME": "উপসর্গ"
-    },
-    {
-        "TOPIC_ID": "zAW4d6XJ-Y",
-        "TOPIC_NAME": "অনুসর্গ"
-    },
-    {
-        "TOPIC_ID": "BKXKwVEyiP",
-        "TOPIC_NAME": "সমাস"
-    },
-    {
-        "TOPIC_ID": "d8HDLzexoZ",
-        "TOPIC_NAME": "ধাতু ও ধাতুর গণ"
-    },
-    {
-        "TOPIC_ID": "sYGsk029RK",
-        "TOPIC_NAME": "প্রকৃতি ও প্রত্যয়"
-    },
-    {
-        "TOPIC_ID": "cVBL9S0XVT",
-        "TOPIC_NAME": "বাংলা শব্দের উচ্চারণ"
-    },
-    {
-        "TOPIC_ID": "a7HHvJWH1f",
-        "TOPIC_NAME": "বাংলা বানানের নিয়ম"
-    },
-    {
-        "TOPIC_ID": "19c-x8tvUH",
-        "TOPIC_NAME": " এ আই, রোবোটিক্স"
-    },
-    {
-        "TOPIC_ID": "2f-xAM5Aq_",
-        "TOPIC_NAME": "তথ্য প্রযুক্তির নৈতিকতা ও প্লেজিয়ারিজম "
-    },
-    {
-        "TOPIC_ID": "33KSzWPzhO",
-        "TOPIC_NAME": "ভার্চুয়াল রিয়েলিটি"
-    },
-    {
-        "TOPIC_ID": "b9JDiJQ1Y8",
-        "TOPIC_NAME": " উৎপাদন,কর্মসংস্থান ও যোগাযোগ ক্ষেত্রে তথ্য প্রযুক্তি "
-    },
-    {
-        "TOPIC_ID": "c49FYg3nG_",
-        "TOPIC_NAME": "অফিস , বাসস্থান ও ব্যবসা বাণিজ্যের ক্ষেত্রে তথ্য প্রযুক্তি "
-    },
-    {
-        "TOPIC_ID": "EJJx9dDTzs",
-        "TOPIC_NAME": "জেনেটিক ইঞ্জিনিয়ারিং, ন্যানোটেকনোলজি"
-    },
-    {
-        "TOPIC_ID": "i1cFctTeCp",
-        "TOPIC_NAME": "তথ্য প্রযুক্তির ধারনা "
-    },
-    {
-        "TOPIC_ID": "MVpoR7tI7k",
-        "TOPIC_NAME": "বায়োমেট্রিক্স,বায়োইনফরমেট্রিক্স"
-    },
-    {
-        "TOPIC_ID": "oLDTYEhSpr",
-        "TOPIC_NAME": "বিশ্বগ্রামের ধারনা "
-    },
-    {
-        "TOPIC_ID": "Q059syzlr2",
-        "TOPIC_NAME": "ক্রায়োসার্জারি"
-    },
-    {
-        "TOPIC_ID": "rAYs8SJtDt",
-        "TOPIC_NAME": "মহাকাশ অভিযান ও প্রতিরক্ষা "
-    },
-    {
-        "TOPIC_ID": "WxqnHWuMb0",
-        "TOPIC_NAME": "শিক্ষা ও চিকিৎসা ক্ষেত্রে  তথ্য ও যোগাযোগ প্রযুক্তি"
-    },
-    {
-        "TOPIC_ID": "5LDGKuKoTZ",
-        "TOPIC_NAME": "ওয়ারলেস কমিউনিকেশন ও এর প্রয়োজনীয়তা"
-    },
-    {
-        "TOPIC_ID": "HONtXcxt0E",
-        "TOPIC_NAME": "ডেটা ট্রান্সমিশন ও কমিউনিকেশন"
-    },
-    {
-        "TOPIC_ID": "JdXRZ3Exfr",
-        "TOPIC_NAME": "ব্যান্ডউইথ"
-    },
-    {
-        "TOPIC_ID": "nlzF53qFbg",
-        "TOPIC_NAME": "ক্লাউড কম্পিউটিং"
-    },
-    {
-        "TOPIC_ID": "o5_TDAgX4N",
-        "TOPIC_NAME": "ডেটা ট্রান্সমিশন মোড ও মেথড"
-    },
-    {
-        "TOPIC_ID": "o6HngPzxmZ",
-        "TOPIC_NAME": "বিভিন্ন প্রজন্মের মোবাইল"
-    },
-    {
-        "TOPIC_ID": "SulsrRU03c",
-        "TOPIC_NAME": " টপোলজি"
-    },
-    {
-        "TOPIC_ID": "UNrZ-pNoPF",
-        "TOPIC_NAME": "নেটওয়ার্কের ধারনা ও গুরুত্ব"
-    },
-    {
-        "TOPIC_ID": "wYDNHhaGfz",
-        "TOPIC_NAME": "তার বা ক্যাবল মাধ্যম"
-    },
-    {
-        "TOPIC_ID": "cTj2KmFm95",
-        "TOPIC_NAME": "ওয়েবসাইটের প্রকারভেদ"
-    },
-    {
-        "TOPIC_ID": "Ef8M0S42uz",
-        "TOPIC_NAME": "ইউ আর এল"
-    },
-    {
-        "TOPIC_ID": "Me5xkG3Tzr",
-        "TOPIC_NAME": "আইপি এড্রেস"
-    },
-    {
-        "TOPIC_ID": "OlRok78SPV",
-        "TOPIC_NAME": "ডোমেইন নেইম"
-    },
-    {
-        "TOPIC_ID": "0QShk3rkm5",
-        "TOPIC_NAME": "ওয়েবসাইট, ব্রাউজার ও সার্চ ইঞ্জিন"
-    },
-    {
-        "TOPIC_ID": "DaSZUz5Mo1",
-        "TOPIC_NAME": "হাইব্রিড কাঠামো"
-    },
-    {
-        "TOPIC_ID": "FVRweOXkzE",
-        "TOPIC_NAME": "ট্রি কাঠামো"
-    },
-    {
-        "TOPIC_ID": "kyK515K389",
-        "TOPIC_NAME": "ওয়েবসাইটের কাঠামো"
-    },
-    {
-        "TOPIC_ID": "P-D9n9Q_MX",
-        "TOPIC_NAME": "নেটওয়ার্ক কাঠামো"
-    },
-    {
-        "TOPIC_ID": "UxtQizvBpA",
-        "TOPIC_NAME": "লিনিয়ার কাঠামো"
-    },
-    {
-        "TOPIC_ID": "cpDKL_jpQG",
-        "TOPIC_NAME": "HTML কোড এবং ট্যাগ(tag)"
-    },
-    {
-        "TOPIC_ID": "yKa_-CQ7oo",
-        "TOPIC_NAME": "HTML এবং HTMLব্যবহারের সুবিধা ও অসুবিধা"
-    },
-    {
-        "TOPIC_ID": "0m6tD4pxAh",
-        "TOPIC_NAME": "প্রোগ্রাম অ্যালগরিদম ও ফ্লো চার্ট "
-    },
-    {
-        "TOPIC_ID": "2Oo2vEE9o6",
-        "TOPIC_NAME": "'সি' প্রোগ্রামিং ভাষা"
-    },
-    {
-        "TOPIC_ID": "B_JeFGRewv",
-        "TOPIC_NAME": "অনুবাদক প্রোগ্রাম ও প্রোগ্রাম ডিবাগিং "
-    },
-    {
-        "TOPIC_ID": "JjX_-4ZGnR",
-        "TOPIC_NAME": "প্রোগ্রামের ধারনা ও কম্পিউটার মেমোরি"
-    },
-    {
-        "TOPIC_ID": "PotTDyqW23",
-        "TOPIC_NAME": "প্রোগ্রামের সংগঠন "
-    },
-    {
-        "TOPIC_ID": "1RcsIAzLHC",
-        "TOPIC_NAME": "মেশিন ভাষা "
-    },
-    {
-        "TOPIC_ID": "UiwBFqX51k",
-        "TOPIC_NAME": "উচ্চস্তরের ভাষা "
-    },
-    {
-        "TOPIC_ID": "VYvVW-AV7h",
-        "TOPIC_NAME": "মধ্যস্তরের ভাষা "
-    },
-    {
-        "TOPIC_ID": "WWQ4sCk__f",
-        "TOPIC_NAME": "অ্যাসেম্বলি ভাষা "
-    },
-    {
-        "TOPIC_ID": "7odwo6-u20",
-        "TOPIC_NAME": "ডেটাবেজ সর্টিং, ইনডেক্সিং,মডেল এবং বিভিন্ন প্রকার কী ফিল্ড"
-    },
-    {
-        "TOPIC_ID": "bpDiPQv2g1",
-        "TOPIC_NAME": "ডেটাবেজ রিলেশন এবং এর বিভিন্ন প্রকারভেদ"
-    },
-    {
-        "TOPIC_ID": "LTYFdmjzEB",
-        "TOPIC_NAME": "ডেটাবেজ সিকিউরিটি"
-    },
-    {
-        "TOPIC_ID": "LXEh2viaf-",
-        "TOPIC_NAME": "কুয়েরি, অপারেটর সমূহ এবং SQL কমান্ডসমূহ"
-    },
-    {
-        "TOPIC_ID": "R-d6QAJny1",
-        "TOPIC_NAME": "ডেটাবেজের ধারণা ও ডেটাবেজ ম্যানেজমেন্ট সিস্টেম"
-    },
-    {
-        "TOPIC_ID": "wgKRHzMeqo",
-        "TOPIC_NAME": "ডেটাবেজ, টেবিল তৈরি এবং ফিল্ডের ডেটা টাইপ"
-    }
+  {
+    "TOPIC_ID": "Gy7fflOPmh",
+    "TOPIC_NAME": "১.বাংলা উচ্চারণের নিয়ম(৫)"
+  },
+  {
+    "TOPIC_ID": "QEOtnBgkCW",
+    "TOPIC_NAME": "২.বাংলা বানানের নিয়ম(৫)"
+  },
+  {
+    "TOPIC_ID": "AeSJyCCfV2",
+    "TOPIC_NAME": "৩।বাংলা ভাষার ব্যাকরণিক শব্দশ্রেণি(৫)"
+  },
+  {
+    "TOPIC_ID": "5SZ52elk_9",
+    "TOPIC_NAME": "৪ . বাংলা শব্দের গঠন ( উপসর্গ ও সমাস ) "
+  },
+  {
+    "TOPIC_ID": "B3-nRG5jvy",
+    "TOPIC_NAME": "৫ । বাক্যতত্ত্ব "
+  },
+  {
+    "TOPIC_ID": "xjE2dwefgz",
+    "TOPIC_NAME": "৬ বাংলা ভাষার অপপ্রয়োগ ও শুদ্ধ প্রয়োগ "
+  },
+  {
+    "TOPIC_ID": "9zMatv-eCc",
+    "TOPIC_NAME": "৭.পারিভাষিক শব্দ/অনুবাদ-১০"
+  },
+  {
+    "TOPIC_ID": "4x-4ux-41r",
+    "TOPIC_NAME": "৮.দিনলিপি/প্রতিবেদন-১০"
+  },
+  {
+    "TOPIC_ID": "CJvT7VJ2E1",
+    "TOPIC_NAME": "৯ বৈদ্যুতিক চিঠি / আবেদন পত্র "
+  },
+  {
+    "TOPIC_ID": "hYAMPr9gq6",
+    "TOPIC_NAME": "১০ সারাংশ / ভাবসম্প্রসারণ "
+  },
+  {
+    "TOPIC_ID": "mlg9R_5eMb",
+    "TOPIC_NAME": "১১  সংলাপ / খুদেগল্প "
+  },
+  {
+    "TOPIC_ID": "7lZ3JNnk1Y",
+    "TOPIC_NAME": "১২ প্রবন্ধ- নিবন্ধ রচনা "
+  },
+  {
+    "TOPIC_ID": "YGAn054LO5",
+    "TOPIC_NAME": "লালসালু"
+  },
+  {
+    "TOPIC_ID": "R2EPQLM0iO",
+    "TOPIC_NAME": "সিরাজউদ্দৌলা"
+  },
+  {
+    "TOPIC_ID": "0wMCoLbhAR",
+    "TOPIC_NAME": "সাহিত্যে খেলা"
+  },
+  {
+    "TOPIC_ID": "547-ntuP-y",
+    "TOPIC_NAME": "গন্তব্য কাবুল"
+  },
+  {
+    "TOPIC_ID": "634efKKb4h",
+    "TOPIC_NAME": "অর্ধাঙ্গী"
+  },
+  {
+    "TOPIC_ID": "7BzkpS8OQ3",
+    "TOPIC_NAME": "যৌবনের গান"
+  },
+  {
+    "TOPIC_ID": "Tfj2qpeHPW",
+    "TOPIC_NAME": "বাঙ্গালার  নব্য লেখকদের প্রতি নিবেদন"
+  },
+  {
+    "TOPIC_ID": "lOrMkG1IcY",
+    "TOPIC_NAME": "অপরিচিতা"
+  },
+  {
+    "TOPIC_ID": "KrDlZqRRLu",
+    "TOPIC_NAME": "বিলাসী"
+  },
+  {
+    "TOPIC_ID": "YjIW5k0Ebk",
+    "TOPIC_NAME": "জীবন ও বৃক্ষ "
+  },
+  {
+    "TOPIC_ID": "TfjR1-F-v0",
+    "TOPIC_NAME": "মাসি-পিসি"
+  },
+  {
+    "TOPIC_ID": "lnhXKUakCZ",
+    "TOPIC_NAME": "রেইনকোট"
+  },
+  {
+    "TOPIC_ID": "dVLTfVg1g1",
+    "TOPIC_NAME": "নেকলেস "
+  },
+  {
+    "TOPIC_ID": "usnm_uZckG",
+    "TOPIC_NAME": "সুখ "
+  },
+  {
+    "TOPIC_ID": "2WyI2g-ZqO",
+    "TOPIC_NAME": "প্রত্যাবর্তনের লজ্জা"
+  },
+  {
+    "TOPIC_ID": "FV8AkiDzcP",
+    "TOPIC_NAME": "বিভীষণের প্রতি মেঘনাদ"
+  },
+  {
+    "TOPIC_ID": "R0ZOxgJx7H",
+    "TOPIC_NAME": "সোনার তরী "
+  },
+  {
+    "TOPIC_ID": "bHI6Wju9hW",
+    "TOPIC_NAME": "বিদ্রোহী "
+  },
+  {
+    "TOPIC_ID": "5poo5bz1oa",
+    "TOPIC_NAME": "প্রতিদান"
+  },
+  {
+    "TOPIC_ID": "RWQGuAxjV5",
+    "TOPIC_NAME": "সুচেতনা"
+  },
+  {
+    "TOPIC_ID": "9f48JBeP-8",
+    "TOPIC_NAME": "তাহারেই পড়ে মনে"
+  },
+  {
+    "TOPIC_ID": "h-Ut6c7uQq",
+    "TOPIC_NAME": "পদ্মা"
+  },
+  {
+    "TOPIC_ID": "7U6tmJyI6l",
+    "TOPIC_NAME": "আঠারো বছর বয়স"
+  },
+  {
+    "TOPIC_ID": "U-KWW2xqyQ",
+    "TOPIC_NAME": "ফেব্রুয়ারি ১৯৬৯"
+  },
+  {
+    "TOPIC_ID": "Rueq3C83ZZ",
+    "TOPIC_NAME": "আমি কিংবদন্তির কথা বলছি"
+  },
+  {
+    "TOPIC_ID": "gap-16",
+    "TOPIC_NAME": "ভাষাতত্ত্ব"
+  },
+  {
+    "TOPIC_ID": "lILIZT9e9p",
+    "TOPIC_NAME": "শব্দতত্ত্ব "
+  },
+  {
+    "TOPIC_ID": "a7HHvJWH1f",
+    "TOPIC_NAME": "বাংলা বানানের নিয়ম"
+  },
+  {
+    "TOPIC_ID": "WxqnHWuMb0",
+    "TOPIC_NAME": "শিক্ষা ও চিকিৎসা ক্ষেত্রে  তথ্য ও যোগাযোগ প্রযুক্তি"
+  },
+  {
+    "TOPIC_ID": "rAYs8SJtDt",
+    "TOPIC_NAME": "মহাকাশ অভিযান ও প্রতিরক্ষা "
+  },
+  {
+    "TOPIC_ID": "MVpoR7tI7k",
+    "TOPIC_NAME": "বায়োমেট্রিক্স,বায়োইনফরমেট্রিক্স"
+  },
+  {
+    "TOPIC_ID": "oLDTYEhSpr",
+    "TOPIC_NAME": "বিশ্বগ্রামের ধারনা "
+  },
+  {
+    "TOPIC_ID": "Q059syzlr2",
+    "TOPIC_NAME": "ক্রায়োসার্জারি"
+  },
+  {
+    "TOPIC_ID": "19c-x8tvUH",
+    "TOPIC_NAME": " এ আই, রোবোটিক্স"
+  },
+  {
+    "TOPIC_ID": "2f-xAM5Aq_",
+    "TOPIC_NAME": "তথ্য প্রযুক্তির নৈতিকতা ও প্লেজিয়ারিজম "
+  },
+  {
+    "TOPIC_ID": "33KSzWPzhO",
+    "TOPIC_NAME": "ভার্চুয়াল রিয়েলিটি"
+  },
+  {
+    "TOPIC_ID": "i1cFctTeCp",
+    "TOPIC_NAME": "তথ্য প্রযুক্তির ধারনা "
+  },
+  {
+    "TOPIC_ID": "b9JDiJQ1Y8",
+    "TOPIC_NAME": " উৎপাদন,কর্মসংস্থান ও যোগাযোগ ক্ষেত্রে তথ্য প্রযুক্তি "
+  },
+  {
+    "TOPIC_ID": "c49FYg3nG_",
+    "TOPIC_NAME": "অফিস , বাসস্থান ও ব্যবসা বাণিজ্যের ক্ষেত্রে তথ্য প্রযুক্তি "
+  },
+  {
+    "TOPIC_ID": "EJJx9dDTzs",
+    "TOPIC_NAME": "জেনেটিক ইঞ্জিনিয়ারিং, ন্যানোটেকনোলজি"
+  },
+  {
+    "TOPIC_ID": "wYDNHhaGfz",
+    "TOPIC_NAME": "তার বা ক্যাবল মাধ্যম"
+  },
+  {
+    "TOPIC_ID": "SulsrRU03c",
+    "TOPIC_NAME": " টপোলজি"
+  },
+  {
+    "TOPIC_ID": "UNrZ-pNoPF",
+    "TOPIC_NAME": "নেটওয়ার্কের ধারনা ও গুরুত্ব"
+  },
+  {
+    "TOPIC_ID": "nlzF53qFbg",
+    "TOPIC_NAME": "ক্লাউড কম্পিউটিং"
+  },
+  {
+    "TOPIC_ID": "o5_TDAgX4N",
+    "TOPIC_NAME": "ডেটা ট্রান্সমিশন মোড ও মেথড"
+  },
+  {
+    "TOPIC_ID": "o6HngPzxmZ",
+    "TOPIC_NAME": "বিভিন্ন প্রজন্মের মোবাইল"
+  },
+  {
+    "TOPIC_ID": "5LDGKuKoTZ",
+    "TOPIC_NAME": "ওয়ারলেস কমিউনিকেশন ও এর প্রয়োজনীয়তা"
+  },
+  {
+    "TOPIC_ID": "HONtXcxt0E",
+    "TOPIC_NAME": "ডেটা ট্রান্সমিশন ও কমিউনিকেশন"
+  },
+  {
+    "TOPIC_ID": "JdXRZ3Exfr",
+    "TOPIC_NAME": "ব্যান্ডউইথ"
+  },
+  {
+    "TOPIC_ID": "1rjrWrDfqK",
+    "TOPIC_NAME": "সংখ্যা পদ্ধতির ইতিহাস ধারণা ও প্রকারভেদ"
+  },
+  {
+    "TOPIC_ID": "nsylPWFwb0",
+    "TOPIC_NAME": "সংখ্যা পদ্ধতির আন্তঃসম্পর্ক"
+  },
+  {
+    "TOPIC_ID": "6PoxOUnWWB",
+    "TOPIC_NAME": "বাইনারি যোগ বিয়োগ ও দুই এর পরিপূরক"
+  },
+  {
+    "TOPIC_ID": "tnpymuAbFY",
+    "TOPIC_NAME": "কোড "
+  },
+  {
+    "TOPIC_ID": "PEvZ4bemeH",
+    "TOPIC_NAME": "বুলিয়ান আলজেবরা ,সরলীকরণ"
+  },
+  {
+    "TOPIC_ID": "BW73EBEvPA",
+    "TOPIC_NAME": "ডি মরগানের সূত্র "
+  },
+  {
+    "TOPIC_ID": "_0e07uHRFl",
+    "TOPIC_NAME": "লজিক গেট"
+  },
+  {
+    "TOPIC_ID": "25vUMSeTQt",
+    "TOPIC_NAME": "এনকোডার,ডিকোডার  ও রেজিস্টার"
+  },
+  {
+    "TOPIC_ID": "SipQ2NS_eT",
+    "TOPIC_NAME": "অ্যাডার"
+  },
+  {
+    "TOPIC_ID": "kG1yacufui",
+    "TOPIC_NAME": "ফ্লিপফ্লপ ও কাউন্টার "
+  },
+  {
+    "TOPIC_ID": "yKa_-CQ7oo",
+    "TOPIC_NAME": "HTML এবং HTMLব্যবহারের সুবিধা ও অসুবিধা"
+  },
+  {
+    "TOPIC_ID": "_E8Es67mSR",
+    "TOPIC_NAME": "ওয়েবসাইটের প্রকারভেদ, আইপি এড্রেস ও URL "
+  },
+  {
+    "TOPIC_ID": "0QShk3rkm5",
+    "TOPIC_NAME": "ওয়েবসাইট, ব্রাউজার ও সার্চ ইঞ্জিন"
+  },
+  {
+    "TOPIC_ID": "B4e6K-uEUP",
+    "TOPIC_NAME": "ওয়েবসাইটের কাঠামো ও বিস্তারিত"
+  },
+  {
+    "TOPIC_ID": "cpDKL_jpQG",
+    "TOPIC_NAME": "HTML কোড এবং ট্যাগ(tag)"
+  },
+  {
+    "TOPIC_ID": "WWQ4sCk__f",
+    "TOPIC_NAME": "অ্যাসেম্বলি ভাষা "
+  },
+  {
+    "TOPIC_ID": "UiwBFqX51k",
+    "TOPIC_NAME": "উচ্চস্তরের ভাষা "
+  },
+  {
+    "TOPIC_ID": "VYvVW-AV7h",
+    "TOPIC_NAME": "মধ্যস্তরের ভাষা "
+  },
+  {
+    "TOPIC_ID": "1RcsIAzLHC",
+    "TOPIC_NAME": "মেশিন ভাষা "
+  },
+  {
+    "TOPIC_ID": "PotTDyqW23",
+    "TOPIC_NAME": "প্রোগ্রামের সংগঠন "
+  },
+  {
+    "TOPIC_ID": "0m6tD4pxAh",
+    "TOPIC_NAME": "প্রোগ্রাম অ্যালগরিদম ও ফ্লো চার্ট "
+  },
+  {
+    "TOPIC_ID": "2Oo2vEE9o6",
+    "TOPIC_NAME": "'সি' প্রোগ্রামিং ভাষা"
+  },
+  {
+    "TOPIC_ID": "JjX_-4ZGnR",
+    "TOPIC_NAME": "প্রোগ্রামের ধারনা ও কম্পিউটার মেমোরি"
+  },
+  {
+    "TOPIC_ID": "B_JeFGRewv",
+    "TOPIC_NAME": "অনুবাদক প্রোগ্রাম ও প্রোগ্রাম ডিবাগিং "
+  },
+  {
+    "TOPIC_ID": "wgKRHzMeqo",
+    "TOPIC_NAME": "ডেটাবেজ, টেবিল তৈরি এবং ফিল্ডের ডেটা টাইপ"
+  },
+  {
+    "TOPIC_ID": "R-d6QAJny1",
+    "TOPIC_NAME": "ডেটাবেজের ধারণা ও ডেটাবেজ ম্যানেজমেন্ট সিস্টেম"
+  },
+  {
+    "TOPIC_ID": "LTYFdmjzEB",
+    "TOPIC_NAME": "ডেটাবেজ সিকিউরিটি"
+  },
+  {
+    "TOPIC_ID": "LXEh2viaf-",
+    "TOPIC_NAME": "কুয়েরি, অপারেটর সমূহ এবং SQL কমান্ডসমূহ"
+  },
+  {
+    "TOPIC_ID": "7odwo6-u20",
+    "TOPIC_NAME": "ডেটাবেজ সর্টিং, ইনডেক্সিং,মডেল এবং বিভিন্ন প্রকার কী ফিল্ড"
+  },
+  {
+    "TOPIC_ID": "bpDiPQv2g1",
+    "TOPIC_NAME": "ডেটাবেজ রিলেশন এবং এর বিভিন্ন প্রকারভেদ"
+  },
+  {
+    "TOPIC_ID": "W88Mzfd_lz",
+    "TOPIC_NAME": "মৌলিক অর্থনৈতিক সমস্যা"
+  },
+  {
+    "TOPIC_ID": "xZDbyuk_oO",
+    "TOPIC_NAME": "নির্দেশমূলক অর্থ ব্যবস্থার বৈশিষ্ট্য "
+  },
+  {
+    "TOPIC_ID": "UJHsT7NMwO",
+    "TOPIC_NAME": "ইসলামি অর্থনীতি ও এর বৈশিষ্ট্য "
+  },
+  {
+    "TOPIC_ID": "r-6BobqSBq",
+    "TOPIC_NAME": "ধনতান্ত্রিক ও নির্দেশ মূলক অর্থব্যবস্থার পার্থক্য"
+  },
+  {
+    "TOPIC_ID": "nmv1KhTCqd",
+    "TOPIC_NAME": "ধনতান্ত্রিক অর্থ ব্যবস্থার বৈশিষ্ট্য "
+  },
+  {
+    "TOPIC_ID": "OvtB2MjDDN",
+    "TOPIC_NAME": "মৌলিক অর্থনৈতিক সমস্যা এবং এর সমাধানে দাম ব্যবস্থার ভূমিকা"
+  },
+  {
+    "TOPIC_ID": "PWpSxcwKYd",
+    "TOPIC_NAME": "ব্যষ্টিক ও সামষ্টিক অর্থনীতি এবং এদের পার্থক্য"
+  },
+  {
+    "TOPIC_ID": "_MbO-iZWe4",
+    "TOPIC_NAME": "মিশ্র অর্থ ব্যবস্থার বৈশিষ্ট্য "
+  },
+  {
+    "TOPIC_ID": "56SVaF2gYq",
+    "TOPIC_NAME": "ব্যষ্টিক ও সামষ্টিক অর্থনীতির গুরুত্ব"
+  },
+  {
+    "TOPIC_ID": "fhmV5Xi2Lc",
+    "TOPIC_NAME": "অর্থনৈতিক সমস্যার প্রকৃতি"
+  },
+  {
+    "TOPIC_ID": "IGhITKWhp6",
+    "TOPIC_NAME": "অর্থনৈতিক ব্যবস্থা বলতে কি বুঝায়"
+  },
+  {
+    "TOPIC_ID": "yHgFAlYD6P",
+    "TOPIC_NAME": "ভারসাম্য দামের উপর চাহিদা ও যোগানের পরিবর্তনের প্রভাব"
+  },
+  {
+    "TOPIC_ID": "QUQYaO9_jk",
+    "TOPIC_NAME": "ভারসাম্য কি? "
+  },
+  {
+    "TOPIC_ID": "RE35kaEnRJ",
+    "TOPIC_NAME": " ভোক্তা এবং উৎপাদকের আচরণ"
+  },
+  {
+    "TOPIC_ID": "KyW2-rUg_V",
+    "TOPIC_NAME": "চাহিদার স্থিতিস্থাপকতা ধারণা ও নির্ধারক সমূহ"
+  },
+  {
+    "TOPIC_ID": "np8ZiCbwZv",
+    "TOPIC_NAME": " উপযোগের ধারণা"
+  },
+  {
+    "TOPIC_ID": "11Ye2i-miV",
+    "TOPIC_NAME": "যোগান কী? যোগানের নির্ধারক সমূহ"
+  },
+  {
+    "TOPIC_ID": "ECgoASAV-Z",
+    "TOPIC_NAME": "আপেক্ষক"
+  },
+  {
+    "TOPIC_ID": "Ek6P_2SeUy",
+    "TOPIC_NAME": "চাহিদার ধারণা"
+  },
+  {
+    "TOPIC_ID": "udkbMsSPhf",
+    "TOPIC_NAME": "উৎপাদন ব্যয়"
+  },
+  {
+    "TOPIC_ID": "2qfgy-uvxY",
+    "TOPIC_NAME": "গড় আয়  ও প্রান্তিক আয়ের মধ্যে সম্পর্ক"
+  },
+  {
+    "TOPIC_ID": "IRiUroIVDO",
+    "TOPIC_NAME": "আয় ব্যবস্থা"
+  },
+  {
+    "TOPIC_ID": "Bh7u5L7w-U",
+    "TOPIC_NAME": "মোট আয় , গড় আয়, প্রান্তিক আয়"
+  },
+  {
+    "TOPIC_ID": "EZtsHANqc2",
+    "TOPIC_NAME": "উৎপাদন ও এর শ্রেণী বিভাগ"
+  },
+  {
+    "TOPIC_ID": "Y8rTCjtvkb",
+    "TOPIC_NAME": "ফার্ম ও শিল্পের ধারণা ও পার্থক্য"
+  },
+  {
+    "TOPIC_ID": "YFD4QRdAmD",
+    "TOPIC_NAME": "সময়ের ভিত্তিতে বাজারের তুলনা ও পার্থক্য"
+  },
+  {
+    "TOPIC_ID": "ljwhUvceVC",
+    "TOPIC_NAME": "প্রতিযোগিতার ভিত্তিতে বাজারের তুলনা ও পার্থক্য"
+  },
+  {
+    "TOPIC_ID": "o8y9tQjOAQ",
+    "TOPIC_NAME": "অর্থনীতিতে বাজার এবং শ্রেনীবিভাগ"
+  },
+  {
+    "TOPIC_ID": "-MIWW-gWTQ",
+    "TOPIC_NAME": "আয়তনের ভিত্তিতে বাজারের তুলনা ও পার্থক্য"
+  },
+  {
+    "TOPIC_ID": "Gfr4NEnI25",
+    "TOPIC_NAME": "পূর্ণ প্রতিযোগিতামূলক বাজারে দাম নির্ধারণ"
+  },
+  {
+    "TOPIC_ID": "IvWXblUvjk",
+    "TOPIC_NAME": "একচেটিয়া বাজারে দাম নির্ধারণ"
+  },
+  {
+    "TOPIC_ID": "Y7jq-za0KX",
+    "TOPIC_NAME": "অর্থিক ও প্রকৃত মুজুরি "
+  },
+  {
+    "TOPIC_ID": "Z1h6gRQWFU",
+    "TOPIC_NAME": "শ্রমের ধারণা ও বৈশিষ্ট্য"
+  },
+  {
+    "TOPIC_ID": "Z9suNLN90f",
+    "TOPIC_NAME": "শ্রমের চাহিদা"
+  },
+  {
+    "TOPIC_ID": "twLpJLjX8L",
+    "TOPIC_NAME": "শ্রমের যোগান"
+  },
+  {
+    "TOPIC_ID": "s84L8s9pQk",
+    "TOPIC_NAME": "শ্রমের গতিশীলতা ও প্রতিবন্ধকতা"
+  },
+  {
+    "TOPIC_ID": "o2GR7lIa_n",
+    "TOPIC_NAME": "শ্রমবাজারের ধারণা ও এর শ্রেণী বিভাগ"
+  },
+  {
+    "TOPIC_ID": "-8esbwzxKT",
+    "TOPIC_NAME": "শ্রমের দক্ষতা নির্ধারণকারী বিষয়সমূহ"
+  },
+  {
+    "TOPIC_ID": "4-0Z0mwQmf",
+    "TOPIC_NAME": "অভ্যন্তরীন ও আন্তর্জাতিক শ্রমবাজার"
+  },
+  {
+    "TOPIC_ID": "AYUCl2vw2S",
+    "TOPIC_NAME": "শ্রম বাজারে মুজুরি নির্ধারণ"
+  },
+  {
+    "TOPIC_ID": "cwc0UbIJVP",
+    "TOPIC_NAME": "মুজুরি আয় "
+  },
+  {
+    "TOPIC_ID": "ytt4rcnnVs",
+    "TOPIC_NAME": "মূলধনের গতিশীলতা"
+  },
+  {
+    "TOPIC_ID": "TwH7zX-5Zv",
+    "TOPIC_NAME": "মূলধন গঠনের সমস্যাবলি"
+  },
+  {
+    "TOPIC_ID": "RS3d4_zCED",
+    "TOPIC_NAME": "স্থায়ী ও চলতি মূলধনের পার্থক্য"
+  },
+  {
+    "TOPIC_ID": "OzJnMHnB8X",
+    "TOPIC_NAME": "মুলধন গঠনের উপায় "
+  },
+  {
+    "TOPIC_ID": "1wRTghKwFe",
+    "TOPIC_NAME": "মূলধনের যোগান"
+  },
+  {
+    "TOPIC_ID": "4wcI6DUV-H",
+    "TOPIC_NAME": "মূলধনের প্রকারভেদ"
+  },
+  {
+    "TOPIC_ID": "e4480t0RkM",
+    "TOPIC_NAME": "মূলধনের ধারণা ও বৈশিষ্ট্য "
+  },
+  {
+    "TOPIC_ID": "LKjgkudxFq",
+    "TOPIC_NAME": "সংগঠনের প্রকারভেদ"
+  },
+  {
+    "TOPIC_ID": "ChHk8OvHDZ",
+    "TOPIC_NAME": "সংগঠনের ধারণা "
+  },
+  {
+    "TOPIC_ID": "EbTr_tUBkx",
+    "TOPIC_NAME": "বেসরকারী সংস্থা"
+  },
+  {
+    "TOPIC_ID": "T6-MS1ssNe",
+    "TOPIC_NAME": "খাজনা নির্ধারণ "
+  },
+  {
+    "TOPIC_ID": "v4NACi8gJ_",
+    "TOPIC_NAME": "অনুপার্জিত আয় উদ্ভবের কারণ"
+  },
+  {
+    "TOPIC_ID": "pdpKo95E0e",
+    "TOPIC_NAME": "নিম খাজনা ও খাজনার মধ্যকার সম্পর্ক "
+  },
+  {
+    "TOPIC_ID": "7GnwyLYcEM",
+    "TOPIC_NAME": "খাজনার ধারণা ও প্রকারভেদ"
+  },
+  {
+    "TOPIC_ID": "9SbxIsabTa",
+    "TOPIC_NAME": "খাজনা ও নিম খাজনার পার্থক্য "
+  },
+  {
+    "TOPIC_ID": "GjbR-2FKmW",
+    "TOPIC_NAME": "খাজনা ও দামের সম্পর্ক"
+  },
+  {
+    "TOPIC_ID": "v4Jekvcqj9",
+    "TOPIC_NAME": "সামগ্রীক আয় ও ব্যয়"
+  },
+  {
+    "TOPIC_ID": "mb62rzzRYf",
+    "TOPIC_NAME": "সরকারি ব্যয়"
+  },
+  {
+    "TOPIC_ID": "mH1GzkjZwr",
+    "TOPIC_NAME": "সঞ্চয় ও বিনিয়োগের মধ্যে সম্পর্ক,"
+  },
+  {
+    "TOPIC_ID": "ocHC1VR9l_",
+    "TOPIC_NAME": "NNI এন এন আই"
+  },
+  {
+    "TOPIC_ID": "5jBiOwNqn7",
+    "TOPIC_NAME": "GDP/ জিডিপি"
+  },
+  {
+    "TOPIC_ID": "frHfvkbQc7",
+    "TOPIC_NAME": "GMI / জি এন আই "
+  },
+  {
+    "TOPIC_ID": "hOFs-a9SfX",
+    "TOPIC_NAME": "সামগ্রীক আয়ের ধারণা"
+  },
+  {
+    "TOPIC_ID": "Cdb0bJ0zgO",
+    "TOPIC_NAME": "ভারসাম্য আয় "
+  },
+  {
+    "TOPIC_ID": "Dl3ZKnaUBU",
+    "TOPIC_NAME": "ভোগ, সঞ্চয় ও বিনিয়োগ"
+  },
+  {
+    "TOPIC_ID": "Xnmq46h_6h",
+    "TOPIC_NAME": "মুদ্রার চাহিদা ও যোগান"
+  },
+  {
+    "TOPIC_ID": "ZbyBNIRCEX",
+    "TOPIC_NAME": "মুদ্রার ধারণা"
+  },
+  {
+    "TOPIC_ID": "PVg6MxCE-X",
+    "TOPIC_NAME": "কেন্দ্রিয় ব্যাংকের ঋন নিয়ন্ত্রণের  হাতিয়ার সমূহ"
+  },
+  {
+    "TOPIC_ID": "pXc1Ha6Ivp",
+    "TOPIC_NAME": "অনলাইন ও মোবাইল ব্যাংকিং এর গুরুত্ব"
+  },
+  {
+    "TOPIC_ID": "QCttKS_VDX",
+    "TOPIC_NAME": "বানিজ্যিক ব্যাংক ও ঝণ  সৃজন "
+  },
+  {
+    "TOPIC_ID": "-R71MqB_aB",
+    "TOPIC_NAME": "মুদ্রার পরিমান তত্ত্ব"
+  },
+  {
+    "TOPIC_ID": "ahiVca_k_m",
+    "TOPIC_NAME": "বিহিত মুদ্রা এবং আমানত "
+  },
+  {
+    "TOPIC_ID": "Gx1AQmbXh9",
+    "TOPIC_NAME": "বাণিজ্যিক ব্যাংকের সমাজসেবা কার্যক্রম"
+  },
+  {
+    "TOPIC_ID": "d83Sh4VBnr",
+    "TOPIC_NAME": "কেন্দ্রিয় ব্যাংক ও এর কার্যাবলি"
+  },
+  {
+    "TOPIC_ID": "eEGFkrLMLZ",
+    "TOPIC_NAME": "মুদ্রার মূল্য"
+  },
+  {
+    "TOPIC_ID": "ey7UQfOI19",
+    "TOPIC_NAME": "মুদ্রার কার্যাবলি"
+  },
+  {
+    "TOPIC_ID": "2WJkRHK7Bl",
+    "TOPIC_NAME": "বৈশ্বিক  পেক্ষাপটে বাংলাদেশ ও ভবিষৎ সম্ভবনা"
+  },
+  {
+    "TOPIC_ID": "3xtyPJSGhi",
+    "TOPIC_NAME": "বাংলাদেশর অর্থনীতির ঐতিহাসিক পটভূমি"
+  },
+  {
+    "TOPIC_ID": "GuYIfsPdF1",
+    "TOPIC_NAME": "বাংলাদেশের অর্থনৈতিক কাঠামো, বৈশিষ্ঠ্যও গতিধারা"
+  },
+  {
+    "TOPIC_ID": "dtxHYt8He_",
+    "TOPIC_NAME": "বাংলাদেশের ভৌগোলিক অবস্থান ও প্রাকৃতিক পরিবেশ"
+  },
+  {
+    "TOPIC_ID": "zQx2gUHbUL",
+    "TOPIC_NAME": "কৃষির কাঠামো"
+  },
+  {
+    "TOPIC_ID": "LniSgTIJ2b",
+    "TOPIC_NAME": "কৃষি খাতে পরিবর্তনের ধারা"
+  },
+  {
+    "TOPIC_ID": "m5jRWReZ4-",
+    "TOPIC_NAME": "কৃষি উন্নয়নের কর্মসূচি সমূহ"
+  },
+  {
+    "TOPIC_ID": "9fT3g33AnJ",
+    "TOPIC_NAME": "কৃষি পণ্যের বিপণন"
+  },
+  {
+    "TOPIC_ID": "X1lZ661Pvf",
+    "TOPIC_NAME": "বাংলাদেশে শিল্পের শ্রেণী বিন্যাস"
+  },
+  {
+    "TOPIC_ID": "ynSmrZNsg3",
+    "TOPIC_NAME": "শিল্পোন্নয়নে সরকারী নীতি"
+  },
+  {
+    "TOPIC_ID": "slQX7bBUnm",
+    "TOPIC_NAME": "রপ্তানী মুখী শিল্প"
+  },
+  {
+    "TOPIC_ID": "pOBP1Kjayb",
+    "TOPIC_NAME": "আমদানি বিকল্প শিল্প "
+  },
+  {
+    "TOPIC_ID": "J_37U9HvqZ",
+    "TOPIC_NAME": "শিল্প কাঠামো"
+  },
+  {
+    "TOPIC_ID": "Ttm1ZSHurw",
+    "TOPIC_NAME": "জনসংখ্যার পরিমাপ ও ঘনত্ব"
+  },
+  {
+    "TOPIC_ID": "USrFYsffxa",
+    "TOPIC_NAME": "বাংলাদেশে মানব সম্পদ উন্নয়নে গৃহিত পদক্ষেপ "
+  },
+  {
+    "TOPIC_ID": "rpJ39BXzim",
+    "TOPIC_NAME": "জনসংখ্যা তত্ত্ব"
+  },
+  {
+    "TOPIC_ID": "MbehJv27J2",
+    "TOPIC_NAME": "মানব সম্পদ উন্নয়ন"
+  },
+  {
+    "TOPIC_ID": "nvBvHnNOWq",
+    "TOPIC_NAME": "জনসংখ্যা বৃদ্ধির প্রভাব।"
+  },
+  {
+    "TOPIC_ID": "HSgOh4vZpV",
+    "TOPIC_NAME": "বাংলাদেশের জনসংখ্যা কাঠামো "
+  },
+  {
+    "TOPIC_ID": "I5k_sYeFp2",
+    "TOPIC_NAME": "আত্মকর্মসংস্থানের ধারণা ও করণীয় "
+  },
+  {
+    "TOPIC_ID": "IXbZgamiC7",
+    "TOPIC_NAME": "জনসংখ্যার নির্ধারক সমূহ"
+  },
+  {
+    "TOPIC_ID": "tJ8h1Durct",
+    "TOPIC_NAME": "খাদ্য নিরাপত্তার দিকসমূহ"
+  },
+  {
+    "TOPIC_ID": "TmVjUHC10B",
+    "TOPIC_NAME": "খাদ্য নিরাপত্তার ধারণা"
+  },
+  {
+    "TOPIC_ID": "UHV6ih4nh2",
+    "TOPIC_NAME": "নিরাপদ খাদ্যের ধারণা ও গুরুত্ব"
+  },
+  {
+    "TOPIC_ID": "RoBe2ova4E",
+    "TOPIC_NAME": "খাদ্য নিরাপদকরণে ত্রিমুখী কার্যক্রম "
+  },
+  {
+    "TOPIC_ID": "qLInGCn-f9",
+    "TOPIC_NAME": "খাদ্য নিরাপত্তা"
+  },
+  {
+    "TOPIC_ID": "ifNcYf68eW",
+    "TOPIC_NAME": "খাদ্য নিরাপত্তায়  সরকারের পদ্মক্ষেপ "
+  },
+  {
+    "TOPIC_ID": "TU2aewwc19",
+    "TOPIC_NAME": "শিল্প পুজি গঠনে শেয়ার মার্কেটের অবদান "
+  },
+  {
+    "TOPIC_ID": "4bKMsoeInN",
+    "TOPIC_NAME": "অর্থায়নের ধারণা"
+  },
+  {
+    "TOPIC_ID": "9pNxMxrSkn",
+    "TOPIC_NAME": "অর্থায়নের উৎস"
+  },
+  {
+    "TOPIC_ID": "MJcWAti1Ze",
+    "TOPIC_NAME": "মুদ্রাস্ফীতির ধারণা"
+  },
+  {
+    "TOPIC_ID": "0m_9rzHUJR",
+    "TOPIC_NAME": "মুদ্রাস্ফীতি পরিমাপ"
+  },
+  {
+    "TOPIC_ID": "4Cgw3Gu-l4",
+    "TOPIC_NAME": "মুদ্রাস্ফীতির কারণ ও প্রভাব"
+  },
+  {
+    "TOPIC_ID": "8z0j6CxpRE",
+    "TOPIC_NAME": "বাংলাদেশে মুদ্রাস্ফীতির কারণ ও এর প্রতিকার"
+  },
+  {
+    "TOPIC_ID": "stYLNlyfj_",
+    "TOPIC_NAME": "বিশ্বায়নের ধারণা"
+  },
+  {
+    "TOPIC_ID": "R7gWirn7fe",
+    "TOPIC_NAME": "আন্তর্জাতিক ও অভ্যন্তররীন বানিজ্য"
+  },
+  {
+    "TOPIC_ID": "rhxx2OMJ1W",
+    "TOPIC_NAME": "বাংলাদেশে আন্তর্জাতিক বানিজ্যের প্রসার"
+  },
+  {
+    "TOPIC_ID": "mSmSzoc9ac",
+    "TOPIC_NAME": "বাণিজ্য বনাম বৈদেশিক সাহায্য "
+  },
+  {
+    "TOPIC_ID": "o9DDSait9P",
+    "TOPIC_NAME": "আন্তর্জাতিক বানিজের ধারণা"
+  },
+  {
+    "TOPIC_ID": "8ABES4jZ3g",
+    "TOPIC_NAME": "আন্তর্জাতিক বানিজ্যের গুরুত্ব"
+  },
+  {
+    "TOPIC_ID": "B4gmE-9Tlh",
+    "TOPIC_NAME": "রপ্তনি বানিজ্য সম্প্রসারণের উপায় "
+  },
+  {
+    "TOPIC_ID": "BJaOMILE_A",
+    "TOPIC_NAME": "বাংলাদেশের আমদানি ও রপ্তানি দ্রব্য"
+  },
+  {
+    "TOPIC_ID": "wFyvyj6fKm",
+    "TOPIC_NAME": "সরকারের আয় ব্যয়"
+  },
+  {
+    "TOPIC_ID": "X5MPfhyaJL",
+    "TOPIC_NAME": "সরকারের আয়ের উৎস"
+  },
+  {
+    "TOPIC_ID": "XpI_DmCc2X",
+    "TOPIC_NAME": "সরকারের ব্যয়ের উদ্দেশ্য"
+  },
+  {
+    "TOPIC_ID": "mlLtLAKno6",
+    "TOPIC_NAME": "সরকারি ঋনের উদ্দেশ্য ও উৎসসমূহ"
+  },
+  {
+    "TOPIC_ID": "BeByW7bNQK",
+    "TOPIC_NAME": "সরকারি ব্যয়ের অর্থসংস্থান"
+  },
+  {
+    "TOPIC_ID": "y8H9xF-7A6",
+    "TOPIC_NAME": "দারিদ্র  বিমোচনে উন্নয়ন পরিকল্পনার ভূমিকা"
+  },
+  {
+    "TOPIC_ID": "TJYqASpWEn",
+    "TOPIC_NAME": "ষষ্ঠ পঞ্চবার্ষিক পরিকল্পনা"
+  },
+  {
+    "TOPIC_ID": "MQjMU57QKK",
+    "TOPIC_NAME": "উন্নয়ন পরিকল্পনার ধারণা ও প্রকারভেদ"
+  },
+  {
+    "TOPIC_ID": "pF_vSrY8pA",
+    "TOPIC_NAME": "উন্নয়নশীল দেশে উন্নয়ন পরিকলপনার গুরুত্ব"
+  },
+  {
+    "TOPIC_ID": "2G9g43Eh3D",
+    "TOPIC_NAME": "বাংলাদেশে উন্নয়ন পরিকল্পনার অভিজ্ঞতা"
+  },
+  {
+    "TOPIC_ID": "SFL1nmj62j",
+    "TOPIC_NAME": "লেনদেনের দলিল পত্র"
+  },
+  {
+    "TOPIC_ID": "nWAVfjcZrJ",
+    "TOPIC_NAME": "অন্যান্য গাণিতিক সমস্যা"
+  },
+  {
+    "TOPIC_ID": "AvPAUZRCPY",
+    "TOPIC_NAME": "লেনদেন "
+  },
+  {
+    "TOPIC_ID": "Lipk88ESu0",
+    "TOPIC_NAME": " হিসাববিজ্ঞানের পরিচিতি "
+  },
+  {
+    "TOPIC_ID": "-7JWHgoJ5b",
+    "TOPIC_NAME": "হিসাব সমীকরণ ও টেবুলার ছক "
+  },
+  {
+    "TOPIC_ID": "v62eVtjJF9",
+    "TOPIC_NAME": "খতিয়ান"
+  },
+  {
+    "TOPIC_ID": "rahn9p_0pQ",
+    "TOPIC_NAME": "অন্যান্য গাণিতিক সমস্যা"
+  },
+  {
+    "TOPIC_ID": "KYVKt8o4Dp",
+    "TOPIC_NAME": "দুতরফা দাখিলা পদ্ধতি "
+  },
+  {
+    "TOPIC_ID": "nr0w6BB5yB",
+    "TOPIC_NAME": "ভ্যাট সংক্রান্ত সমস্যা"
+  },
+  {
+    "TOPIC_ID": "6wpS6s1bhG",
+    "TOPIC_NAME": "বাট্টা "
+  },
+  {
+    "TOPIC_ID": "Sy4p2HE50_",
+    "TOPIC_NAME": "হিসাব চক্র"
+  },
+  {
+    "TOPIC_ID": "TvnLb8euvp",
+    "TOPIC_NAME": "জাবেদা "
+  },
+  {
+    "TOPIC_ID": "gnZ808mDsl",
+    "TOPIC_NAME": "নগদান ও খুচরা নগদান বই"
+  },
+  {
+    "TOPIC_ID": "z44LpfJJz7",
+    "TOPIC_NAME": "উভয় জের"
+  },
+  {
+    "TOPIC_ID": "KeAdQZ15D4",
+    "TOPIC_NAME": "ব্যাংক সমন্বয় বিবরণীর মৌলিক বিষয়বস্তু"
+  },
+  {
+    "TOPIC_ID": "FkwHifEwCA",
+    "TOPIC_NAME": "গড়মিল ও বিবরণী "
+  },
+  {
+    "TOPIC_ID": "hy1Go6AwO6",
+    "TOPIC_NAME": "একক জের"
+  },
+  {
+    "TOPIC_ID": "Ia3eEjpKwG",
+    "TOPIC_NAME": "অন্যান্য গাণিতিক সমস্যা"
+  },
+  {
+    "TOPIC_ID": "U2uqzUKRzy",
+    "TOPIC_NAME": "মূলধনজাতীয় ও মুনাফাজাতীয় আয়-ব্যয়"
+  },
+  {
+    "TOPIC_ID": "R_LBuuc1w_",
+    "TOPIC_NAME": "রেওয়ামিলের সীমাবদ্ধতা"
+  },
+  {
+    "TOPIC_ID": "-lqHiJhwiA",
+    "TOPIC_NAME": "রেওয়ামিল শুদ্ধিকরণ ও ভুল সংশোধনী দাখিলা"
+  },
+  {
+    "TOPIC_ID": "5GZwWXKucJ",
+    "TOPIC_NAME": "সমন্বয় দাখিলা ও সমন্বিত রেওয়ামিল"
+  },
+  {
+    "TOPIC_ID": "9dZ4Edc6-v",
+    "TOPIC_NAME": "রেওয়ামিলের বিষয়বস্তু"
+  },
+  {
+    "TOPIC_ID": "ByM5E-UdVp",
+    "TOPIC_NAME": "অন্যান্য গাণিতিক সমস্যা"
+  },
+  {
+    "TOPIC_ID": "VJ1CtbuFSh",
+    "TOPIC_NAME": "হিসাববিজ্ঞানের নীতিমালার মৌলিক বিষয়বস্তু"
+  },
+  {
+    "TOPIC_ID": "lFFnruBVxL",
+    "TOPIC_NAME": "হিসাব বিজ্ঞানের সীমাবদ্ধতা"
+  },
+  {
+    "TOPIC_ID": "DN4zm-OQAr",
+    "TOPIC_NAME": "হিসাববিজ্ঞানের নীতিসমূহ"
+  },
+  {
+    "TOPIC_ID": "eSSg5DqRwa",
+    "TOPIC_NAME": "হিসাব বিজ্ঞানের ধারনাসমূহ"
+  },
+  {
+    "TOPIC_ID": "P9xNzYGQZD",
+    "TOPIC_NAME": "অনাদায়ী পাওনা ও অনাদায়ী পাওনা সঞ্চিতি"
+  },
+  {
+    "TOPIC_ID": "FLkh5Uftit",
+    "TOPIC_NAME": "প্রাপ্য হিসাব এবং প্রাপ্য নোট"
+  },
+  {
+    "TOPIC_ID": "te5vn1QIjg",
+    "TOPIC_NAME": "কার্যপত্রের সংক্রান্ত সমস্যাবলি"
+  },
+  {
+    "TOPIC_ID": "2_CmHblq4A",
+    "TOPIC_NAME": "সমন্বয় দাখিলা"
+  },
+  {
+    "TOPIC_ID": "Hw6F0YEfXr",
+    "TOPIC_NAME": "কার্যপত্রের বিষয়বস্তু"
+  },
+  {
+    "TOPIC_ID": "qB8sAd2zRh",
+    "TOPIC_NAME": "সমন্বিত রেওয়ামিল"
+  },
+  {
+    "TOPIC_ID": "jA2QLajPgO",
+    "TOPIC_NAME": "সমাপনী দাখিলা ও বিপরীত দাখিলা"
+  },
+  {
+    "TOPIC_ID": "ufby9KjL-2",
+    "TOPIC_NAME": "অন্যান্য অবচয় নির্ণয় পদ্ধতিসমূহ"
+  },
+  {
+    "TOPIC_ID": "VQsrH_PluE",
+    "TOPIC_NAME": "ক্রম হ্রাসমান পদ্ধতি"
+  },
+  {
+    "TOPIC_ID": "_uVLTgkeHU",
+    "TOPIC_NAME": "লাভ ও ক্ষতি"
+  },
+  {
+    "TOPIC_ID": "Gj3erW6BUc",
+    "TOPIC_NAME": "অবচয়ের বিষয়বস্তু"
+  },
+  {
+    "TOPIC_ID": "gnH2sOXSPR",
+    "TOPIC_NAME": "অদৃশ্য,অস্পর্শনীয়,প্রাকৃতিক ও স্থায়ী সম্পদ"
+  },
+  {
+    "TOPIC_ID": "e5t0Rc307s",
+    "TOPIC_NAME": "সরলরৈখিক পদ্ধতি"
+  },
+  {
+    "TOPIC_ID": "zTk0UkxoAx",
+    "TOPIC_NAME": "মালিকানা স্বত্ব বিবরনী"
+  },
+  {
+    "TOPIC_ID": "uXxpILz4Ny",
+    "TOPIC_NAME": "আর্থিক বিবরণীর সংক্রান্ত বিষয়াবলী"
+  },
+  {
+    "TOPIC_ID": "CsK8k1jfxo",
+    "TOPIC_NAME": "আর্থিক অবস্থার বিবরণী"
+  },
+  {
+    "TOPIC_ID": "drzvSs5Vac",
+    "TOPIC_NAME": "সমন্বয়সমূহ"
+  },
+  {
+    "TOPIC_ID": "Elx373nFbK",
+    "TOPIC_NAME": "একধাপ ও বহুধাপ আয় বিবরণী"
+  },
+  {
+    "TOPIC_ID": "l1FjfCtOXX",
+    "TOPIC_NAME": "অন্যান্য গাণিতিক সমস্যা"
+  },
+  {
+    "TOPIC_ID": "pHyaWTE_6-",
+    "TOPIC_NAME": "একতরফা দাখিলার মৌলিক বিষয়বস্তু"
+  },
+  {
+    "TOPIC_ID": "2x4PrzRNBp",
+    "TOPIC_NAME": "লাভ-লোকসান নির্ণয়"
+  },
+  {
+    "TOPIC_ID": "gkQBzlPaXV",
+    "TOPIC_NAME": "প্রারম্ভিক ও সমাপনি দাখিলা"
+  },
+  {
+    "TOPIC_ID": "YNfILVoL2X",
+    "TOPIC_NAME": "তহবিল সমূহ"
+  },
+  {
+    "TOPIC_ID": "uc0bKCYs_X",
+    "TOPIC_NAME": "সমন্বয়"
+  },
+  {
+    "TOPIC_ID": "SlheotxKFL",
+    "TOPIC_NAME": "আয়-ব্যয় হিসাব "
+  },
+  {
+    "TOPIC_ID": "ojuLlM4lmV",
+    "TOPIC_NAME": "প্রাপ্তি ও পরিশোধ হিসাব "
+  },
+  {
+    "TOPIC_ID": "1AaFdye5EJ",
+    "TOPIC_NAME": "উদ্বর্তপত্র"
+  },
+  {
+    "TOPIC_ID": "gfR9pSIHth",
+    "TOPIC_NAME": "অব্যবসায়ী প্রতিষ্ঠানের মৌলিক বিষয়বস্তু"
+  },
+  {
+    "TOPIC_ID": "WaVRq6Fygj",
+    "TOPIC_NAME": "সমন্বিত মূলধন হিসাব"
+  },
+  {
+    "TOPIC_ID": "Xr09nVcMA2",
+    "TOPIC_NAME": "ঋণ, বেতন, কমিশন ও মূলধন"
+  },
+  {
+    "TOPIC_ID": "O6jpFKSFZ1",
+    "TOPIC_NAME": "স্থায়ী মূলধন পদ্ধতিতে মূলধন ও চলতি হিসাব"
+  },
+  {
+    "TOPIC_ID": "0D-9jJK_yf",
+    "TOPIC_NAME": "অংশীদার ব্যবসায়ের মৌলিক বিষয়বস্তু"
+  },
+  {
+    "TOPIC_ID": "2bDdzbA1K1",
+    "TOPIC_NAME": "লাভ লোকসান সমন্বয় হিসাব"
+  },
+  {
+    "TOPIC_ID": "5zkeeULA4Z",
+    "TOPIC_NAME": "পরিবর্তনশীল মূলধন পদ্ধতিতে মূলধন হিসাব"
+  },
+  {
+    "TOPIC_ID": "7dlLzW_BuO",
+    "TOPIC_NAME": "উত্তলোনের সুদ ও উত্তোলন হিসাব"
+  },
+  {
+    "TOPIC_ID": "Gwr4CjoJa1",
+    "TOPIC_NAME": "মুনাফা বণ্টন ও মুনাফা ভোগের নিশ্চয়তা"
+  },
+  {
+    "TOPIC_ID": "F5bXG1uY1M",
+    "TOPIC_NAME": "লাভ লোকসান আবন্টন হিসাব"
+  },
+  {
+    "TOPIC_ID": "kkp6ceVdwl",
+    "TOPIC_NAME": "অন্যান্য গাণিতিক সমস্যা"
+  },
+  {
+    "TOPIC_ID": "Lip9AQPGZj",
+    "TOPIC_NAME": "শ্রেণিবিন্যাস"
+  },
+  {
+    "TOPIC_ID": "MpSxq7R08H",
+    "TOPIC_NAME": "প্রত্যক্ষ পদ্ধতি"
+  },
+  {
+    "TOPIC_ID": "puxYRugQsl",
+    "TOPIC_NAME": "অনগদ কার্যক্রম"
+  },
+  {
+    "TOPIC_ID": "0Ad1wgO6Fj",
+    "TOPIC_NAME": "পরোক্ষ পদ্ধতি "
+  },
+  {
+    "TOPIC_ID": "JeSI-TgyWg",
+    "TOPIC_NAME": "নগদ প্রবাহ বিবরণীর মৌলিক বিষয়বস্তু"
+  },
+  {
+    "TOPIC_ID": "qcgiBZ3AIz",
+    "TOPIC_NAME": "শেয়ার,স্টক,ঋণপত্র ও ট্রেজারি স্টক"
+  },
+  {
+    "TOPIC_ID": "3RR1N-MVdh",
+    "TOPIC_NAME": "যৌথ মূলধনী কোম্পানির বিষয়বস্তু"
+  },
+  {
+    "TOPIC_ID": "Jgb-t0b4TU",
+    "TOPIC_NAME": "সম্পদ ক্রয়"
+  },
+  {
+    "TOPIC_ID": "Cjq1Ws1R_Q",
+    "TOPIC_NAME": "অসমন্বয়কৃত ব্যয় "
+  },
+  {
+    "TOPIC_ID": "dtOBlxW4LP",
+    "TOPIC_NAME": "সমহারে,অবহারে,অধিহারে শেয়ার ইস্যু"
+  },
+  {
+    "TOPIC_ID": "enC3eikG-c",
+    "TOPIC_NAME": "বিবরণপত্র,স্মারকলিপি ও পরিমেল নিয়মাবলি"
+  },
+  {
+    "TOPIC_ID": "utWNBr8uXA",
+    "TOPIC_NAME": "মালিকানা স্বত্ব বিবরনী"
+  },
+  {
+    "TOPIC_ID": "v-bYgsS2cv",
+    "TOPIC_NAME": "আর্থিক অবস্থার বিবরণী"
+  },
+  {
+    "TOPIC_ID": "lV06FOkV_T",
+    "TOPIC_NAME": "সমন্বয় সমূহ"
+  },
+  {
+    "TOPIC_ID": "MzUd1hE2xL",
+    "TOPIC_NAME": "যৌথ মূলধনী কোম্পানির বিষয়বস্তু"
+  },
+  {
+    "TOPIC_ID": "_PBUpV-x9J",
+    "TOPIC_NAME": "একধাপ ও বহুধাপ আয় বিবরনী"
+  },
+  {
+    "TOPIC_ID": "JBL_yKGRAn",
+    "TOPIC_NAME": "সংরক্ষিত আয় বিবরণী"
+  },
+  {
+    "TOPIC_ID": "73lkhGMq4L",
+    "TOPIC_NAME": "আর্থিক বিবরণী বিশ্লেষণ সম্পর্কিত বিষয়বস্তু"
+  },
+  {
+    "TOPIC_ID": "h56cmLkFHR",
+    "TOPIC_NAME": "দীর্ঘকালীন স্বচ্ছলতা যাচাইয়ের অনুপাত"
+  },
+  {
+    "TOPIC_ID": "ILHq9GQQY3",
+    "TOPIC_NAME": "স্বল্পকালীন স্বচ্ছলতা যাচাইয়ের অনুপাত"
+  },
+  {
+    "TOPIC_ID": "kAYm8zGHfT",
+    "TOPIC_NAME": "মুনাফা অর্জনের ক্ষমতা যাচাইয়ের অনুপাত"
+  },
+  {
+    "TOPIC_ID": "_WNg9SryFz",
+    "TOPIC_NAME": "পরিচালন দক্ষতা যাচাইয়ের অনুপাত"
+  },
+  {
+    "TOPIC_ID": "Y-e1I4mLEn",
+    "TOPIC_NAME": "উৎপাদন ব্যয় / কারখানা ব্যয়"
+  },
+  {
+    "TOPIC_ID": "u1RFnG32g9",
+    "TOPIC_NAME": "বিক্রিত পণ্যের ব্যয়"
+  },
+  {
+    "TOPIC_ID": "UNvadk_qh_",
+    "TOPIC_NAME": "টেন্ডার ও দরপত্র"
+  },
+  {
+    "TOPIC_ID": "Slmyynbn9c",
+    "TOPIC_NAME": "রূপান্তর ব্যয় "
+  },
+  {
+    "TOPIC_ID": "-rWEXa30ks",
+    "TOPIC_NAME": "মুখ্য ব্যয়"
+  },
+  {
+    "TOPIC_ID": "FlpuHEzuoq",
+    "TOPIC_NAME": "অন্যান্য গাণিতিক সমস্যা"
+  },
+  {
+    "TOPIC_ID": "fLx7FbGNlH",
+    "TOPIC_NAME": "মোট ব্যয়/বিক্রয় ব্যয়"
+  },
+  {
+    "TOPIC_ID": "hzP2ij8ir9",
+    "TOPIC_NAME": "উৎপাদিত পণ্যের উৎপাদন ব্যয়"
+  },
+  {
+    "TOPIC_ID": "Je_VQg5zwa",
+    "TOPIC_NAME": "বিক্রয়যোগ্য পণ্যের ব্যয়"
+  },
+  {
+    "TOPIC_ID": "YrAIWVYrRf",
+    "TOPIC_NAME": "উৎপাদন ব্যয় বিবরণী ও এর সম্পর্কিত বিষয়বস্তু"
+  },
+  {
+    "TOPIC_ID": "GZe_JoWYDK",
+    "TOPIC_NAME": "মজুরি ও বেতন"
+  },
+  {
+    "TOPIC_ID": "vmWft0lsWy",
+    "TOPIC_NAME": "ভারযুক্ত গড় পদ্ধতি"
+  },
+  {
+    "TOPIC_ID": "mD4DBq6z8r",
+    "TOPIC_NAME": "মজুদ মাল নিয়ন্ত্রের কৌশলসমূহ"
+  },
+  {
+    "TOPIC_ID": "-xV7ozbBSA",
+    "TOPIC_NAME": "আগের মাল আগের ছাড়া পদ্ধতি(FIFO)"
+  },
+  {
+    "TOPIC_ID": "iiPlRC-Ptt",
+    "TOPIC_NAME": "মজুদ পণ্যের হিসাবরক্ষণের মৌলিক বিষয়বস্তু"
+  },
+  {
+    "TOPIC_ID": "jfjmlfPjq-",
+    "TOPIC_NAME": "অন্যান্য গাণিতিক সমস্যা"
+  },
+  {
+    "TOPIC_ID": "CTiHXsqXal",
+    "TOPIC_NAME": "বিনকার্ড ও মাল খতিয়ান"
+  },
+  {
+    "TOPIC_ID": "f2MoWbwjVB",
+    "TOPIC_NAME": "পরের মাল আগের ছাড়া পদ্ধতি(LIFO)"
+  },
+  {
+    "TOPIC_ID": "LSxoXoRj2-",
+    "TOPIC_NAME": "স্থায়ী ও পরিবর্তনশীল ব্যয়"
+  },
+  {
+    "TOPIC_ID": "9LrVoarCJ5",
+    "TOPIC_NAME": "প্রত্যক্ষ ও পরোক্ষ ব্যয়"
+  },
+  {
+    "TOPIC_ID": "D71SIwkrxN",
+    "TOPIC_NAME": "ব্যয় সম্পর্কিত বিষয়বস্তু"
+  },
+  {
+    "TOPIC_ID": "b2GcAGw22l",
+    "TOPIC_NAME": "ব্যয়ের শ্রেণিবিভাগ"
+  },
+  {
+    "TOPIC_ID": "WICU1urAiX",
+    "TOPIC_NAME": "ব্যয়,খরচ ও ক্ষতি"
+  },
+  {
+    "TOPIC_ID": "Xj1E1gy7Mq",
+    "TOPIC_NAME": "প্রত্যক্ষ মজুরি বাজেট"
+  },
+  {
+    "TOPIC_ID": "Twq6msRmOV",
+    "TOPIC_NAME": "কাঁচামাল ক্রয় বাজেট"
+  },
+  {
+    "TOPIC_ID": "rx5b1dlRRz",
+    "TOPIC_NAME": "ব্রেক ইভেন বিশ্লেষণ/বিন্দু"
+  },
+  {
+    "TOPIC_ID": "LKDNDY002b",
+    "TOPIC_NAME": "কারখানা উপরিব্যয় বাজেট"
+  },
+  {
+    "TOPIC_ID": "mhimR7L1Yd",
+    "TOPIC_NAME": "বিক্রয় বাজেট"
+  },
+  {
+    "TOPIC_ID": "Qgsc1UC-H7",
+    "TOPIC_NAME": "নিরাপত্তা প্রান্ত"
+  },
+  {
+    "TOPIC_ID": "3v5wM3micG",
+    "TOPIC_NAME": "অনুদান প্রান্ত অনুপাত ও অনুদান প্রান্ত"
+  },
+  {
+    "TOPIC_ID": "5dsMtC7hCS",
+    "TOPIC_NAME": "ব্যবস্থাপনা হিসাববিজ্ঞান ও এর সম্পর্কিত বিষয়বস্তু"
+  },
+  {
+    "TOPIC_ID": "8-SadZp6DM",
+    "TOPIC_NAME": "উৎপাদন বাজেট"
+  },
+  {
+    "TOPIC_ID": "fLXKul2R9L",
+    "TOPIC_NAME": "ব্যয় পরিমান মুনাফা বিশ্লেষণ (CVP)"
+  },
+  {
+    "TOPIC_ID": "FY9UIqY8BS",
+    "TOPIC_NAME": "বাজেট ও এর বিষয়বস্তু এবং বাজেটের শ্রেণিবিভাগ"
+  },
+  {
+    "TOPIC_ID": "dCqhGb_FkT",
+    "TOPIC_NAME": "অন্যান্য গাণিতিক সমস্যা"
+  }
 ]
